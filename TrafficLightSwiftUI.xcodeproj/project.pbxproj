@@ -13,6 +13,7 @@
 		D4AE468E24C709F600EACCDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4AE468D24C709F600EACCDF /* Assets.xcassets */; };
 		D4AE469124C709F600EACCDF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4AE469024C709F600EACCDF /* Preview Assets.xcassets */; };
 		D4AE469424C709F600EACCDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4AE469224C709F600EACCDF /* LaunchScreen.storyboard */; };
+		D4AE469F24C70C8500EACCDF /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AE469E24C70C8500EACCDF /* ColorCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4AE469024C709F600EACCDF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D4AE469324C709F600EACCDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4AE469524C709F600EACCDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4AE469E24C70C8500EACCDF /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D4AE469224C709F600EACCDF /* LaunchScreen.storyboard */,
 				D4AE469524C709F600EACCDF /* Info.plist */,
 				D4AE468F24C709F600EACCDF /* Preview Content */,
+				D4AE469E24C70C8500EACCDF /* ColorCircle.swift */,
 			);
 			path = TrafficLightSwiftUI;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4AE468824C709F500EACCDF /* AppDelegate.swift in Sources */,
+				D4AE469F24C70C8500EACCDF /* ColorCircle.swift in Sources */,
 				D4AE468A24C709F500EACCDF /* SceneDelegate.swift in Sources */,
 				D4AE468C24C709F500EACCDF /* ContentView.swift in Sources */,
 			);
